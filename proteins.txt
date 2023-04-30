@@ -11,6 +11,12 @@ Hemoglobin-beta Human HBB_HUMAN P68871 147
 PFKM Human PFKAM_HUMAN P08237 780
 Pfkm Mouse PFKAM_MOUSE P47857 780
 <<<<<<< HEAD
+Lysozyme Human LYSC_HUMAN P61626 148
+Hemoglobin-alpha Human HBA_HUMAN P69905 142
+Hemoglobin-beta Human HBB_HUMAN P68871 147
+PFKM Human PFKAM_HUMAN P08237 780
+Pfkm Mouse PFKAM_MOUSE P47857 780
+<<<<<<< HEAD
 ---
 =======
 Hemoglobin-alpha Human HBA_HUMAN P69905 142
